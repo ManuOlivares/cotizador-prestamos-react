@@ -1,7 +1,8 @@
 # React + Vite
 Proyecto desarrollado en Reatc y Tailwind, desplegado en Netlify
 mockup :
-![Diseño web de cotización ]https://github.com/ManuOlivares/cotizador-prestamos-react/blob/main/src/assets/img/Captura de pantalla 2024-10-11 203214.png
+![Diseño web de cotización ]https://raw.githubusercontent.com/ManuOlivares/cotizador-prestamos-react/main/src/assets/img/Captura%20de%20pantalla%202024-10-11%20203214.png
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
