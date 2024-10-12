@@ -1,5 +1,5 @@
 # React + Vite
-Proyecto desarrollado en Reatc y Tailwind, desplegado en Netlify
+Proyecto desarrollado en React y Tailwind, desplegado en Netlify
 # Proyecto de Cotización
 
 ## Mockup
